@@ -1,4 +1,7 @@
-# Tableau-WeWashYouSleep-Analysis
+# Analyzing with Tableau
+
+#Topic 1:
+
 For new startup comapny, WeWashYouSleep, whcih already has s presence in 140 locations and recently opended stores in 10 new cities, which are seperated into two reigions.
 
 Analytics tasks:
