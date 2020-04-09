@@ -2,7 +2,7 @@
 
 #Topic 1:
 
-For new startup comapny, WeWashYouSleep, whcih already has s presence in 140 locations and recently opended stores in 10 new cities, which are seperated into two reigions.
+For new startup company, WeWashYouSleep, which already has s presence in 140 locations and recently opened stores in 10 new cities, which are separated into two regions.
 
 Analytics tasks:
 
